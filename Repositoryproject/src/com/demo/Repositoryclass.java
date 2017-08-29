@@ -10,7 +10,7 @@ public class Repositoryclass {
 	private static void displayMethod() {
 		System.out.println("HELLO");
 		System.out.println("HI");
-		
+		System.out.println("local repository");
 	}
 
 }
